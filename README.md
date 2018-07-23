@@ -1,7 +1,7 @@
 # string_match
 ## 对比了各类字符串匹配算法
 
- *  search_test.c
+ *  string_match
  *  Created on: 2018-7-19
  *  Author: MK
  *  usage:四种字符串匹配算法的实现（Sunday、KMP、Boyer-Moore、horspool）的测试
